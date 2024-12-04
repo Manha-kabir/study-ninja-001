@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+langchain
+PyPDF2
+faiss-cpu
+langchain_google_genai
+langchain_community
+python-dotenv
+PyMuPDF
+pdfplumber
+huggingface_hub
